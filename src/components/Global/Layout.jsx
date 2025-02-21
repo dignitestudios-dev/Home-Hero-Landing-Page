@@ -9,7 +9,7 @@ const Layout = ({ pages }) => {
       <ScrollToTop />
       <Navbar />
       {pages}
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };

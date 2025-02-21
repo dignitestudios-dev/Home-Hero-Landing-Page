@@ -12,7 +12,7 @@ const Footer = () => {
     >
       <div className="w-full grid grid-cols-1 lg:grid-cols-12 lg:px-8 gap-y-6">
         <div className="col-span-12 md:col-span-4 flex justify-start items-center">
-          <img src={Logo} alt="" className="" />
+          <img src={Logo} alt="" className="h-20" />
         </div>
         <div className="col-span-12 md:col-span-4 flex flex-col justify-start items-start lg:items-center gap-y-4">
           <p className="text-xl xl:text-2xl font-semibold leading-[27.72px]">
@@ -47,7 +47,7 @@ const Footer = () => {
             to="mailto:support@HomeHero.com"
             className={`text-sm font-normal leading-[16.17px]`}
           >
-            support@HomeHero.com
+            support@homehero.com
           </Link>
         </div>
       </div>
@@ -57,21 +57,15 @@ const Footer = () => {
           Copyright © 2024 HomeHero. All rights reserved.
         </p>
         <div className="flex justify-center items-center gap-x-1">
-          <Link className="text-sm font-normal leading-[16.17px]" to={"/terms"}>
+          <Link className="text-sm font-normal leading-[16.17px]" to={"/"}>
             Terms & Conditions
           </Link>
           <span>/</span>
-          <Link
-            className="text-sm font-normal leading-[16.17px]"
-            to={"/privacy"}
-          >
+          <Link className="text-sm font-normal leading-[16.17px]" to={"/"}>
             Privacy Policy
           </Link>
           <span>/</span>
-          <Link
-            className="text-sm font-normal leading-[16.17px]"
-            to={"/cookie"}
-          >
+          <Link className="text-sm font-normal leading-[16.17px]" to={"/"}>
             Cookie Policy
           </Link>
         </div>
