@@ -44,7 +44,7 @@ const Footer = () => {
             We’re always happy to help.
           </p>
           <Link
-            to="mailto:support@HomeHero.com"
+            to="mailto:support@homehero.com"
             className={`text-sm font-normal leading-[16.17px]`}
           >
             support@homehero.com
