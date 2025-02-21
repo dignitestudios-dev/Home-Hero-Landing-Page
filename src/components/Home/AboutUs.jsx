@@ -12,22 +12,23 @@ const AboutUs = () => {
         <div className="col-span-2 lg:col-span-1 flex flex-col gap-y-4 justify-center lg:pr-8 order-1 lg:order-2">
           <h1 className="text-5xl md:text-[65px] font-extrabold">About us</h1>
           <p className="text-base font-medium text-[#777777]">
-            At HomeHero, we’re dedicated to building a community-driven
-            marketplace where convenience meets sustainability. Our mission is
-            to redefine access to everyday essentials, making it easier for
-            people to rent what they need without the hassle of ownership. By
-            fostering a culture of sharing, we aim to reduce waste, promote
-            efficiency, and connect individuals in a way that benefits both
-            their wallets and the environment. With HomeHero, renting becomes
-            more than just a service—it’s a smarter, more sustainable way of
-            living.
+            At HomeHero, we’re revolutionizing the way people access essential
+            home services by connecting users with trusted service providers in
+            a seamless, community-driven marketplace. Our mission is to make
+            home maintenance effortless, affordable, and reliable—whether it’s
+            laundry, dishwashing, cleaning, or other household tasks.
             <br />
             <br />
-            Our mission is to make renting convenient, affordable, and
-            sustainable for everyone, empowering individuals and businesses
-            alike to maximize the utility of their belongings while minimizing
-            waste. Join us in building a future where access trumps ownership,
-            and together, let's shape a more sustainable and inclusive world.
+            With HomeHero, users can easily post their service needs, and
+            skilled professionals can accept requests, ensuring fast,
+            high-quality assistance whenever it’s needed. By bridging the gap
+            between those who need help and those who offer it, we’re not just
+            simplifying chores—we’re creating opportunities, empowering local
+            service providers, and fostering a culture of convenience and trust.
+            <br />
+            <br />
+            Join HomeHero today and experience a smarter, hassle-free way to
+            keep your home running smoothly!
           </p>
         </div>
       </div>
