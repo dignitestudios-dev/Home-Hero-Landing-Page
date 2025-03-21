@@ -32,7 +32,7 @@ const Hero = () => {
             way people outsource everyday tasks. From home cleaning and laundry
             to handyman services and yard work, HomeHero connects individuals
             with reliable service providers, offering a seamless platform to
-            browse, book, and get tasks done effortlessly. Whether you're a busy
+            browse, book, and get tasks done effortlessly. Whether you’re a busy
             professional, a homeowner, or someone looking to earn by offering
             services, HomeHero makes it easy, safe, and efficient to get things
             done—because your time matters.
